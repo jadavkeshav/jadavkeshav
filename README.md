@@ -1,37 +1,79 @@
-<h1 align="center">Hi 👋, I'm Jadav Keshav</h1>
-<h3 align="center">A Full Stack Developer from India</h3>
+![Welcome to Jadav Keshav's GitHub Profile](https://via.placeholder.com/1200x300?text=Welcome+to+Jadav+Keshav%27s+GitHub+Profile&bg=003366&fg=ffffff)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jadavkeshav&label=Profile%20views&color=0e75b6&style=flat" alt="jadavkeshav" /> </p>
+## Hi there, I'm **Jadav Keshav**! 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jadavkeshav" alt="jadavkeshav" /></a> </p>
+I'm a passionate **Full Stack Developer** with expertise in crafting robust and scalable web applications. My journey involves leveraging cutting-edge technologies to create innovative solutions and deliver exceptional user experiences.
 
-- 🔭 I’m currently working on **MarkMe**
+### 🚀 About Me:
+- **🌟 Specialization**: Full Stack Development, MERN Stack, and Backend Architecture.
+- **💻 Programming Languages**: Java, Python, JavaScript, C.
+- **🔧 Tools & Technologies**: ReactJS, NodeJS, ExpressJS, MongoDB, SQL, Oracle, HTML5, CSS3, Maven.
+- **🎯 Interests**: Problem-solving, optimizing applications, and mastering scalable architectures.
 
-- 🌱 I’m currently learning **Adv. Java ,TypeScript, Angular, React Native**
+---
 
-- 👨‍💻 All of my projects are available at [https://jadavkeshav.vercel.app/](https://jadavkeshav.vercel.app/)
+### 📂 My Portfolio:
+🌐 [jadavkeshav.vercel.app](https://jadavkeshav.vercel.app)
 
-- 📝 I regularly write articles on [https://jadavsmindspace.vercel.app/](https://jadavsmindspace.vercel.app/)
+### 🌐 Connect with Me:
+- **LinkedIn**: [linkedin.com/in/jadav-keshav](https://www.linkedin.com/in/jadav-keshav)
+- **GitHub**: [github.com/jadavkeshav](https://github.com/jadavkeshav)
+- **LeetCode**: [leetcode.com/jadavkeshav](https://leetcode.com/jadavkeshav)
 
-- 💬 Ask me about **react, expressjs, nodejs, java**
+---
 
-- 📫 How to reach me **jadavkeshav2005@gmail.com**
+### 📈 GitHub Stats:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadavkeshav&show_icons=true&hide_title=false&include_all_commits=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=jadavkeshav&theme=radical" alt="GitHub Streak" />
+</div>
 
-- ⚡ Fun fact **I think i am funny.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/jadavkeshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jadavkeshav" height="30" width="40" /></a>
-<a href="https://twitter.com/jadavkeshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jadavkeshav" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jadav-keshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jadav-keshav" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/28097304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28097304" height="30" width="40" /></a>
-</p>
+### 🛠️ Tech Stack:
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%23007396.svg?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadavkeshav&show_icons=true&locale=en&layout=compact" alt="jadavkeshav" /></p>
+### 🏆 Achievements & Highlights:
+- Solved **X+ problems** on [LeetCode](https://leetcode.com/jadavkeshav).
+- Contributed to **Y open-source projects**.
+- Developed applications used by **Z+ users globally**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jadavkeshav&show_icons=true&locale=en" alt="jadavkeshav" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadavkeshav&" alt="jadavkeshav" /></p>
+### 📌 Current Focus:
+- Mastering advanced backend optimizations.
+- Building scalable and distributed systems.
+- Exploring AI/ML integrations into full-stack applications.
+
+---
+
+<div align="center">
+  <h3>Let's Collaborate and Build Amazing Projects Together!</h3>
+  <img src="https://via.placeholder.com/800x150?text=Code+%7C+Innovate+%7C+Build&bg=ffffff&fg=003366" />
+</div>
+
+---
+
+### 💡 Fun Fact:
+_"Code is like humor. When you have to explain it, it’s bad."_
+
+---
+
+### 📬 Reach Me:
+Feel free to **connect** or **collaborate** with me for projects, contributions, or opportunities!
+
+---
+
+![Footer Banner](https://via.placeholder.com/1200x150?text=Thanks+for+visiting!+Have+a+great+day!&bg=003366&fg=ffffff)
