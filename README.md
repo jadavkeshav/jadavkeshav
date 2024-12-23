@@ -9,16 +9,10 @@ I'm a passionate **Full Stack Developer** with expertise in crafting robust and 
 - **💻 Programming Languages**: Java, Python, JavaScript, C.
 - **🔧 Tools & Technologies**: ReactJS, NodeJS, ExpressJS, MongoDB, SQL, Oracle, HTML5, CSS3, Maven.
 - **🎯 Interests**: Problem-solving, optimizing applications, and mastering scalable architectures.
-
----
-
-### 📂 My Portfolio:
-🌐 [jadavkeshav.vercel.app](https://jadavkeshav.vercel.app)
-
-### 🌐 Connect with Me:
-- **LinkedIn**: [linkedin.com/in/jadav-keshav](https://www.linkedin.com/in/jadav-keshav)
-- **GitHub**: [github.com/jadavkeshav](https://github.com/jadavkeshav)
-- **LeetCode**: [leetcode.com/jadavkeshav](https://leetcode.com/jadavkeshav)
+- **🌐 Portfolio**: [jadavkeshav.vercel.app](https://jadavkeshav.vercel.app)
+- **📂 LinkedIn**: [linkedin.com/in/jadav-keshav](https://www.linkedin.com/in/jadav-keshav)
+- **📂 GitHub**: [github.com/jadavkeshav](https://github.com/jadavkeshav)
+- **📂 LeetCode**: [leetcode.com/jadavkeshav](https://leetcode.com/jadavkeshav)
 
 ---
 
@@ -41,14 +35,21 @@ I'm a passionate **Full Stack Developer** with expertise in crafting robust and 
   <img src="https://img.shields.io/badge/SQL-%23007396.svg?style=for-the-badge&logo=sql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ---
 
 ### 🏆 Achievements & Highlights:
-- Solved **X+ problems** on [LeetCode](https://leetcode.com/jadavkeshav).
-- Contributed to **Y open-source projects**.
-- Developed applications used by **Z+ users globally**.
+- Solved **200+ problems** on [LeetCode](https://leetcode.com/jadavkeshav).
+- Contributed to **10+ open-source projects**.
+- Developed applications used by **1000+ users globally**.
 
 ---
 
