@@ -1,4 +1,3 @@
-![Welcome to Jadav Keshav's GitHub Profile](https://via.placeholder.com/1200x300?text=Welcome+to+Jadav+Keshav%27s+GitHub+Profile&bg=003366&fg=ffffff)
 
 ![github-header-image](https://github.com/user-attachments/assets/735a21a8-9135-4592-ab49-c17ba116973d)
 
