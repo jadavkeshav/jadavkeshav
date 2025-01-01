@@ -60,10 +60,11 @@ I'm a passionate **Full Stack Developer** with expertise in crafting robust and 
 
 ---
 
-<div align="center">
+<!--<div align="center">
   <h3>Let's Collaborate and Build Amazing Projects Together!</h3>
-  <img src="https://via.placeholder.com/800x150?text=Code+%7C+Innovate+%7C+Build&bg=ffffff&fg=003366" />
-</div>
+  ![header_](https://github.com/user-attachments/assets/737cda14-d5c0-446b-8798-7a19e9703828)
+
+</div> -->
 
 ---
 
@@ -77,4 +78,5 @@ Feel free to **connect** or **collaborate** with me for projects, contributions,
 
 ---
 
-![Footer Banner](https://via.placeholder.com/1200x150?text=Thanks+for+visiting!+Have+a+great+day!&bg=003366&fg=ffffff)
+![header_](https://github.com/user-attachments/assets/c71b667d-27bf-443a-8903-af7a2b6de051)
+
