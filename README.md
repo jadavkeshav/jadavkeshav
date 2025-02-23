@@ -48,15 +48,14 @@ I'm a passionate **Full Stack Developer** with expertise in crafting robust and 
 
 ### 🏆 Achievements & Highlights:
 - Solved **200+ problems** on [LeetCode](https://leetcode.com/jadavkeshav).
-- Contributed to **10+ open-source projects**.
-- Developed applications used by **1000+ users globally**.
+- Secured 2nd place in a 24-hour National Level Hackathon, 2023.
+- Participant in various hackathons and project expo including Prakalp(KMIT 2023), Hackprix (2024), Hash it Out season 2 (2024).
 
 ---
 
 ### 📌 Current Focus:
 - Mastering advanced backend optimizations.
 - Building scalable and distributed systems.
-- Exploring AI/ML integrations into full-stack applications.
 
 ---
 
